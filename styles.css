@@ -7,23 +7,25 @@ body{
 .lib{
 	height:20px;
 	width: 100%;
-	margin: 10px 0 20px 0;
-	background: #ffffff;
+	background: rgb(46, 204, 113);
+	margin: 20px;
+	border: none;
+	color: white;
 }
 h2{
 	margin:0;
 	text-align: left;
 }
-span{
+p{
 	position: absolute;
 	left:10px;
 	color:#777777;
 }
-button{
+/* button{
 	height: 20px;
 	width: 100%;
 	margin: 20px;
 	background: #2ecc71;
 	border: none;
 	color: white;
-}
+} */
